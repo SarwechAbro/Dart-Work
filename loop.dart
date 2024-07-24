@@ -1,5 +1,5 @@
 void main() {
-  for (int i = 0; i < 10; i++) {
-    print('sarwech ${i + 1}');
+  for (int i = 1; i < 11; i++) {
+    print('${i} * 2 = ${i * 2}');
   }
 }
